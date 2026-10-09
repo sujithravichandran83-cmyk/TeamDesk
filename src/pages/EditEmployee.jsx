@@ -269,7 +269,7 @@ function EditEmployee() {
       JSON.stringify(updatedEmployee)
     );
 
-    // Update newly-added employee if it exists
+    
     const savedEmployees =
       JSON.parse(
         localStorage.getItem(

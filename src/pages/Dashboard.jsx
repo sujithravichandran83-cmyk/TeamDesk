@@ -121,7 +121,7 @@ function Dashboard() {
 
   return (
     <main>
-      {/* Dashboard Header */}
+      
 
       <section className="dashboard-header">
         <h1>HR Dashboard</h1>
@@ -134,7 +134,7 @@ function Dashboard() {
       </section>
 
 
-      {/* Overview */}
+     
 
       <section>
         <h2>Overview</h2>
@@ -163,7 +163,7 @@ function Dashboard() {
       <br />
 
 
-      {/* Department Headcount */}
+     
 
       <section>
         <h2>
@@ -255,7 +255,7 @@ function Dashboard() {
       <br />
 
 
-      {/* HR Summary */}
+      
 
       <section className="dashboard-summary">
 
